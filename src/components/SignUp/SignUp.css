@@ -1,0 +1,27 @@
+.flex {
+  display: flex;
+}
+
+.h-100 {
+  min-height: 100vh;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.align-end {
+  align-items: end;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.sign-up-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
